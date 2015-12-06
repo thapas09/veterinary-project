@@ -1,0 +1,17 @@
+Shraddha Thapa
+Professor Bowe
+12/6/15
+General Upkeep
+Office Management Use Case
+	The Office Management Use Case is a more abstract use case that looks after the more general administrative function of the vet office. It is divided into three distinct sections which are further divided into different sub sections.
+The sections of the Office Management Use Case are as follows:
+1)	Pet Portal: Includes Billing Information……..
+2)	Calendar…
+3)	 General Upkeep: The general upkeep is a more backend operation of the vet office. This includes employment, adoption, and inventory.
+Adoption Office Management Use Case
+The adoption system keeps track of who gets adopted. Whenever the head of Staff, the office manager logs into the system, he can see which pets are up for adoption and, which pets have been adopted to their new owners. The pets are in variety and divided according to their animal class such as reptiles, mammals, birds, etc. If a new pet is brought into the office, it is first given the medical examination and treated accordingly. Only after these medical requirements are met, it is added to the adoption system and is up for adoption. Once a pet has been successfully adopted, it is entered into the system as ‘Adopted’. However, all the other information about the animal will stay intact. 
+Inventory Office Management Use Case
+The inventory Office Management Use Case has two distinct sections: a) Medical
+                                                                                                                  b) Non-Medical
+The medical section deals with the medicinal supplies for the animals. 
+                           
